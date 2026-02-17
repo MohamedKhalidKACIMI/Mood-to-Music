@@ -21,7 +21,7 @@ The user describes their day or feelings in a single sentence, and the algorithm
 
 1.  **Clone the repository**
     ```bash
-    https://github.com/MohamedKhalidKACIMI/Mood-to-Music.git
+    git clone https://github.com/MohamedKhalidKACIMI/Mood-to-Music.git
     ```
 
 2.  **Install dependencies**
