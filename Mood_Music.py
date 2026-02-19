@@ -4,14 +4,14 @@ import random
 
 playlists_choice = {
     "positive": [
-        "https://www.youtube.com/watch?v=dQw4w9WgXcQ", # Rick Astley
-        "https://www.youtube.com/watch?v=SW_iujvUAzQ"  # Pharrell Williams
+        "https://www.youtube.com/watch?v=dQw4w9WgXcQ", 
+        "https://www.youtube.com/watch?v=SW_iujvUAzQ"  
     ],
     "negative": [
-        "https://www.youtube.com/watch?v=PcvngjNBGHI"  # Sad/Slow music
+        "https://www.youtube.com/watch?v=PcvngjNBGHI"  
     ],
     "neutral": [
-        "https://www.youtube.com/watch?v=F4tHL8reNCs"  # Chill/Lofi
+        "https://www.youtube.com/watch?v=F4tHL8reNCs"  
     ]
 }
 
